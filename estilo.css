@@ -1,0 +1,134 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}   
+
+header .center{
+    border: 1px solid #ccc;
+    width: 404px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    border: none;
+    outline: none;
+}
+
+
+header .center input{
+    width: 339px;
+    height: 30px;
+}
+
+header .center button{
+    width: 57px;
+    height: 40px;
+    top: 8px;
+    left: 873px;
+    border: 1px solid #ccc;
+}
+
+main{
+    display: flex;
+    justify-content:space-around;
+}
+
+
+main .imagemmeio{
+    width: 952px;
+    height: 537px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23.44px;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 10px;
+
+}
+
+main .infocanal{
+    margin-left: 40px;
+    margin-top: 10px;
+
+}
+
+main .botaoinscreva-se{ 
+    margin-left: 40px;
+    
+}
+
+main .like{
+    margin-left: 40px;
+    max-width: 40px;
+    text-align: center;
+}
+
+main .dislike{
+    margin-left: 40px;
+}
+
+main .compartilhamento{
+    margin-left: 40px;
+}
+
+main .dowload{
+    margin-left: 40px;
+}
+
+main h5{
+    margin-left: 40px;
+}
+
+main .linhadoinscreva-se{
+    justify-content: space-between;
+}
+
+main .end{
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+main .right{
+    justify-content: end;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+aside .right{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+aside section{
+    display: flex;
+    margin-top: 10px;
+}
+
+aside section article{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+ 
+
+
+
+
